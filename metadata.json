@@ -1,0 +1,8 @@
+{
+  "name": "Expense Management & Finance Tracker",
+  "description": "An advanced personal finance application with budget planning, recurring expenses, product price tracking, AI insights, voice entries, and receipt OCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
